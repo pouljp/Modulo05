@@ -1,0 +1,25 @@
+
+#exemplo {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 1px solid #EEE;
+
+}
+
+.verde {
+    background-color: green;
+    color: #EEE
+
+}
+.vermelho {
+    background-color: red;
+    color: black;
+}
+.azul {
+    background-color: blue;
+    color: #EEE;
+}
+.preto {
+    background-color: black;
+}
